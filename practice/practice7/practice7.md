@@ -13,13 +13,13 @@ bisection с точностью ε = 10−9.
 **Что сдать:** скрипт, три журнала, график, таблица «корень → число итераций → Δ →
 δ», и вывод о том, совпадает ли число итераций с теоретической оценкой log2(Δ0 / ε).
 
-![](/practice/pracitce7/1.png)
+![](/practice/practice7/img/1.png)
 
 [0.5 - 1.5] - интервал первого корня
-![](/practice/pracitce7/2.png)
+![](/practice/practice7/img/2.png)
 
 [1.6 - 2.5] - интервал второго корня
-![](/practice/pracitce7/3.png)
+![](/practice/practice7/img/3.png)
 
 [2.6 - 3.5] - интервал третьего корня
-![](/practice/pracitce7/4.png)
+![](/practice/practice7/img/4.png)
